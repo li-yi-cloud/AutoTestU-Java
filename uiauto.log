@@ -1,0 +1,198 @@
+2018-09-12 17:53:43.076  [ main:0 ] - [ INFO ]  start find element: SignMoreOptionButton
+2018-09-12 17:53:43.728  [ main:652 ] - [ WARN ]  element: "SignMoreOptionButton" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f86deea3-b82a-4b88-94f2-0732abab41e7
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/tv_account_more_option}
+2018-09-12 17:53:43.929  [ main:853 ] - [ INFO ]  start find element: LoginWithEmailButton
+2018-09-12 17:53:44.547  [ main:1471 ] - [ WARN ]  element: "LoginWithEmailButton" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f86deea3-b82a-4b88-94f2-0732abab41e7
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/btn_signin}
+2018-09-12 17:53:44.747  [ main:1671 ] - [ INFO ]  start find element: LoginWithEmailInput
+2018-09-12 17:53:45.394  [ main:2318 ] - [ WARN ]  element: "LoginWithEmailInput" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f86deea3-b82a-4b88-94f2-0732abab41e7
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/et_email}
+2018-09-12 17:53:45.594  [ main:2518 ] - [ INFO ]  start find element: LoginWithPasswordInput
+2018-09-12 17:53:46.229  [ main:3153 ] - [ WARN ]  element: "LoginWithPasswordInput" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f86deea3-b82a-4b88-94f2-0732abab41e7
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/et_password}
+2018-09-12 17:53:46.429  [ main:3353 ] - [ INFO ]  start find element: LoginWithEmailConfirm
+2018-09-12 17:53:47.064  [ main:3988 ] - [ WARN ]  element: "LoginWithEmailConfirm" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f86deea3-b82a-4b88-94f2-0732abab41e7
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/btn_signin}
+2018-09-12 17:53:47.264  [ main:4188 ] - [ INFO ]  start find element: MatchHomeElement
+2018-09-12 17:53:47.850  [ main:4774 ] - [ WARN ]  element: "MatchHomeElement" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f86deea3-b82a-4b88-94f2-0732abab41e7
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/rb_explore}
+2018-09-12 17:53:48.050  [ main:4974 ] - [ INFO ]  =============
+2018-09-12 17:53:48.050  [ main:4974 ] - [ INFO ]  start find element: MessageHomeElement
+2018-09-12 17:53:48.660  [ main:5584 ] - [ WARN ]  element: "MessageHomeElement" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f86deea3-b82a-4b88-94f2-0732abab41e7
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/rb_message}
+2018-09-12 17:53:48.860  [ main:5784 ] - [ INFO ]  element is found: false
+2018-09-12 17:53:48.861  [ main:5785 ] - [ INFO ]  start find element: MessageHomeElement
+2018-09-12 17:53:49.451  [ main:6375 ] - [ WARN ]  element: "MessageHomeElement" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f86deea3-b82a-4b88-94f2-0732abab41e7
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/rb_message}
+2018-09-12 17:53:49.653  [ main:6577 ] - [ INFO ]  click element result: false
+2018-09-12 17:53:49.653  [ main:6577 ] - [ ERROR ]  ppppp
+2018-09-12 17:53:49.653  [ main:6577 ] - [ INFO ]  start find element: MessageHomeElement
+2018-09-12 17:53:50.265  [ main:7189 ] - [ WARN ]  element: "MessageHomeElement" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f86deea3-b82a-4b88-94f2-0732abab41e7
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/rb_message}
+2018-09-12 17:54:48.779  [ main:0 ] - [ INFO ]  start find element: SignMoreOptionButton
+2018-09-12 17:54:50.053  [ main:1274 ] - [ WARN ]  element: "SignMoreOptionButton" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: eb82d248-c6b2-47f2-b1a5-c82514b27644
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/tv_account_more_option}
+2018-09-12 17:54:50.254  [ main:1475 ] - [ INFO ]  start find element: LoginWithEmailButton
+2018-09-12 17:54:51.241  [ main:2462 ] - [ WARN ]  element: "LoginWithEmailButton" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: eb82d248-c6b2-47f2-b1a5-c82514b27644
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/btn_signin}
+2018-09-12 17:54:51.441  [ main:2662 ] - [ INFO ]  start find element: LoginWithEmailInput
+2018-09-12 17:54:52.389  [ main:3610 ] - [ WARN ]  element: "LoginWithEmailInput" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: eb82d248-c6b2-47f2-b1a5-c82514b27644
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/et_email}
+2018-09-12 17:54:52.589  [ main:3810 ] - [ INFO ]  start find element: LoginWithPasswordInput
+2018-09-12 17:54:53.424  [ main:4645 ] - [ WARN ]  element: "LoginWithPasswordInput" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: eb82d248-c6b2-47f2-b1a5-c82514b27644
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/et_password}
+2018-09-12 17:54:53.625  [ main:4846 ] - [ INFO ]  start find element: LoginWithEmailConfirm
+2018-09-12 17:54:54.380  [ main:5601 ] - [ WARN ]  element: "LoginWithEmailConfirm" is not found. reason: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: eb82d248-c6b2-47f2-b1a5-c82514b27644
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/btn_signin}
+2018-09-12 17:54:54.582  [ main:5803 ] - [ INFO ]  start find element: MatchHomeElement
+2018-09-12 17:54:54.677  [ main:5898 ] - [ INFO ]  log in success
+2018-09-12 17:54:54.678  [ main:5899 ] - [ INFO ]  =============
+2018-09-12 17:54:54.678  [ main:5899 ] - [ INFO ]  start find element: MessageHomeElement
+2018-09-12 17:54:54.778  [ main:5999 ] - [ INFO ]  element is found: true
+2018-09-12 17:54:54.850  [ main:6071 ] - [ INFO ]  click element result: true
+2018-09-12 17:54:54.851  [ main:6072 ] - [ ERROR ]  ppppp
+2018-09-12 17:55:51.455  [ main:0 ] - [ INFO ]  start find element: SignMoreOptionButton
+2018-09-12 17:55:51.739  [ main:284 ] - [ INFO ]  start find element: LoginWithEmailButton
+2018-09-12 17:55:52.668  [ main:1213 ] - [ INFO ]  start find element: LoginWithEmailInput
+2018-09-12 17:55:55.035  [ main:3580 ] - [ INFO ]  start find element: LoginWithPasswordInput
+2018-09-12 17:55:56.584  [ main:5129 ] - [ ERROR ]  get element: LoginWithPasswordInput size fail.
+2018-09-12 17:55:56.585  [ main:5130 ] - [ INFO ]  start find element: LoginWithEmailConfirm
+2018-09-12 17:55:57.035  [ main:5580 ] - [ WARN ]  element: "LoginWithEmailConfirm" is not found. reason: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 13a0fa37-64e9-495a-a7cf-305710758029
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/btn_signin}
+2018-09-12 17:55:57.235  [ main:5780 ] - [ INFO ]  start find element: MatchHomeElement
+2018-09-12 17:55:57.686  [ main:6231 ] - [ WARN ]  element: "MatchHomeElement" is not found. reason: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 13a0fa37-64e9-495a-a7cf-305710758029
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/rb_explore}
+2018-09-12 17:55:57.886  [ main:6431 ] - [ INFO ]  =============
+2018-09-12 17:55:57.886  [ main:6431 ] - [ INFO ]  start find element: MessageHomeElement
+2018-09-12 17:55:58.328  [ main:6873 ] - [ WARN ]  element: "MessageHomeElement" is not found. reason: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 13a0fa37-64e9-495a-a7cf-305710758029
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/rb_message}
+2018-09-12 17:55:58.529  [ main:7074 ] - [ INFO ]  element is found: false
+2018-09-12 17:55:58.529  [ main:7074 ] - [ INFO ]  start find element: MessageHomeElement
+2018-09-12 17:55:58.983  [ main:7528 ] - [ WARN ]  element: "MessageHomeElement" is not found. reason: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 13a0fa37-64e9-495a-a7cf-305710758029
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/rb_message}
+2018-09-12 17:55:59.184  [ main:7729 ] - [ INFO ]  click element result: false
+2018-09-12 17:55:59.185  [ main:7730 ] - [ ERROR ]  ppppp
+2018-09-12 17:55:59.185  [ main:7730 ] - [ INFO ]  start find element: MessageHomeElement
+2018-09-12 17:55:59.635  [ main:8180 ] - [ WARN ]  element: "MessageHomeElement" is not found. reason: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DELL-14P', ip: '192.168.2.21', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, databaseEnabled: false, desired: {appActivity: com.rcplatform.livechat.ui...., appPackage: com.rcplatform.livechat, automationName: uiautomator2, deviceName: af7996a2, noReset: true, platformName: android, platformVersion: 8.0, udid: af7996a2}, deviceApiLevel: 26, deviceManufacturer: samsung, deviceModel: SM-G9350, deviceName: af7996a2, deviceScreenDensity: 640, deviceScreenSize: 1440x2560, deviceUDID: af7996a2, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, udid: af7996a2, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 13a0fa37-64e9-495a-a7cf-305710758029
+*** Element info: {Using=id, value=com.rcplatform.livechat:id/rb_message}
+2018-09-12 17:56:32.459  [ main:0 ] - [ INFO ]  start find element: SignMoreOptionButton
+2018-09-12 17:56:32.761  [ main:302 ] - [ INFO ]  start find element: LoginWithEmailButton
+2018-09-12 17:56:33.674  [ main:1215 ] - [ INFO ]  start find element: LoginWithEmailInput
+2018-09-12 17:56:36.097  [ main:3638 ] - [ INFO ]  start find element: LoginWithPasswordInput
+2018-09-12 17:56:37.918  [ main:5459 ] - [ INFO ]  start find element: LoginWithEmailConfirm
+2018-09-12 17:56:38.588  [ main:6129 ] - [ INFO ]  start find element: MatchHomeElement
+2018-09-12 17:56:43.208  [ main:10749 ] - [ INFO ]  log in success
+2018-09-12 17:56:43.209  [ main:10750 ] - [ INFO ]  =============
+2018-09-12 17:56:43.209  [ main:10750 ] - [ INFO ]  start find element: MessageHomeElement
+2018-09-12 17:56:43.379  [ main:10920 ] - [ INFO ]  element is found: true
+2018-09-12 17:56:43.447  [ main:10988 ] - [ INFO ]  click element result: true
+2018-09-12 17:56:43.448  [ main:10989 ] - [ ERROR ]  ppppp
